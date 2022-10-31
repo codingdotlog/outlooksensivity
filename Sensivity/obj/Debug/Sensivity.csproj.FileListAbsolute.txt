@@ -1,0 +1,15 @@
+C:\Users\emre.yuz\source\repos\Sensivity\Sensivity\obj\Debug\Sensivity.csproj.AssemblyReference.cache
+C:\Users\emre.yuz\source\repos\Sensivity\Sensivity\obj\Debug\Sensivity.Properties.Resources.resources
+C:\Users\emre.yuz\source\repos\Sensivity\Sensivity\obj\Debug\Sensivity.Ribbon1.resources
+C:\Users\emre.yuz\source\repos\Sensivity\Sensivity\obj\Debug\Sensivity.Settings.resources
+C:\Users\emre.yuz\source\repos\Sensivity\Sensivity\obj\Debug\Sensivity.csproj.GenerateResource.cache
+C:\Users\emre.yuz\source\repos\Sensivity\Sensivity\obj\Debug\Sensivity.csproj.CoreCompileInputs.cache
+C:\Users\emre.yuz\source\repos\Sensivity\Sensivity\bin\Debug\Sensivity.dll
+C:\Users\emre.yuz\source\repos\Sensivity\Sensivity\bin\Debug\Sensivity.pdb
+C:\Users\emre.yuz\source\repos\Sensivity\Sensivity\bin\Debug\Sensivity.dll.manifest
+C:\Users\emre.yuz\source\repos\Sensivity\Sensivity\bin\Debug\Sensivity.vsto
+C:\Users\emre.yuz\source\repos\Sensivity\Sensivity\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\emre.yuz\source\repos\Sensivity\Sensivity\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\emre.yuz\source\repos\Sensivity\Sensivity\obj\Debug\Sensivity.csproj.CopyComplete
+C:\Users\emre.yuz\source\repos\Sensivity\Sensivity\obj\Debug\Sensivity.dll
+C:\Users\emre.yuz\source\repos\Sensivity\Sensivity\obj\Debug\Sensivity.pdb
