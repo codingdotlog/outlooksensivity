@@ -60,15 +60,21 @@ namespace Sensivity
                 recipents = GetSMTPAddressForRecipients(mail);
                 bool isInternal = mipLabels.Contains("INTERNAL");
                 //bool isPublic = mipLabels.Contains("PUBLIC");
-                bool isContains = recipents.All(elem => domains.Contains(elem));
+                bool isContains = true;
+                foreach(string recipent in recipents)
+                {
+                    if(!domains.Contains(recipent))
+                    {
+                        isContains = false;
+                    }
+                }
                 if (isInternal==true && isContains==false)
                 {
                     MessageBox.Show("Internal Maili Şirket Dışında Gönderemezsiniz!\nYou Cannot Send Internal Mail Outside the Company!","Outlook", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     Cancel = true;
                 }
-
-                
             }
+            
         }
 
         private string[] GetSMTPAddressForRecipients(Outlook.MailItem mail)
